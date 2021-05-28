@@ -1,2 +1,2 @@
-# bdsbsckup
-backup repo with some bdsx plugins in it
+# bdsxstuff
+scripts and some bdsx plugins in it

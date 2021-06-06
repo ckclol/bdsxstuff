@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+					"type": "loot_table",
+					"name": "loot_tables/fmh/villagers/villager_snow_armorer_head.json"
+				}
+            ],
+            "conditions": [
+                {
+                    "condition": "killed_by_player"
+                }
+								
+            ]
+        }
+    ]
+}

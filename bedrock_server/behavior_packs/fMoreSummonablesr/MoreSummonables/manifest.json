@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§c/summon minecraft:fireball ~ ~3 ~ §fand much more with More Summonables. Made by §cd6b",
+        "name": "§fMore Summonables§r",
+        "uuid": "B6F9F670-2065-4B2B-A1EC-9152F918C6AE",
+        "min_engine_version": [ 1,8,0 ],
+        "version": [1, 1, 0]
+    },
+    "mi_engine_version": [ 1,8,0 ],"modules": [
+        {
+            "description": "resourcePack.vanilla_server.description",
+            "type": "data",
+            "uuid": "F08882E2-8D06-4FAC-B710-6DA609A898AA",
+            "version": [1, 1, 0]
+        }
+    ]
+}

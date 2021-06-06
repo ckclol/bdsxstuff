@@ -1,0 +1,58 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "afcmd:nuke",
+      "is_spawnable": false,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups": {
+      "from_explosion": {
+        "minecraft:explode": {
+          "fuseLength": {
+            "range_min": 0.5,
+            "range_max": 2.0
+          },
+          "fuseLit": true,
+          "power": 99,
+          "causesFire": true
+        }
+      }
+    },
+	
+    "components": {
+      "minecraft:type_family": {
+        "family": [ "tnt", "inanimate" ]
+      },
+      "minecraft:health": {
+        "value": 9999,
+        "max": 9999
+      },
+      "minecraft:collision_box": {
+        "width": 0.98,
+        "height": 0.98
+      },
+
+      "minecraft:explode": {
+        "fuseLength": 10,
+        "fuseLit": true,
+        "power": 99,
+        "causesFire": true
+      },
+	    "minecraft:physics": {
+      }
+    },
+    
+    "events": {
+      "from_explosion": {
+        "add": {
+          "component_groups": [
+            "from_explosion"
+          ]
+        }
+      }
+    }
+  }
+}

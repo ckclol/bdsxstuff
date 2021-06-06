@@ -1,0 +1,39 @@
+tag @s add self
+replaceitem entity @p[tag=!self] slot.hotbar 1 potato
+replaceitem entity @p[tag=!self] slot.hotbar 2 potato
+replaceitem entity @p[tag=!self] slot.hotbar 3 potato
+replaceitem entity @p[tag=!self] slot.hotbar 4 potato
+replaceitem entity @p[tag=!self] slot.hotbar 5 potato
+replaceitem entity @p[tag=!self] slot.hotbar 6 potato
+replaceitem entity @p[tag=!self] slot.hotbar 7 potato
+replaceitem entity @p[tag=!self] slot.hotbar 8 potato
+replaceitem entity @p[tag=!self] slot.hotbar 9 potato
+replaceitem entity @p[tag=!self] slot.inventory 1 potato
+replaceitem entity @p[tag=!self] slot.inventory 2 potato
+replaceitem entity @p[tag=!self] slot.inventory 3 potato
+replaceitem entity @p[tag=!self] slot.inventory 4 potato
+replaceitem entity @p[tag=!self] slot.inventory 5 potato
+replaceitem entity @p[tag=!self] slot.inventory 6 potato
+replaceitem entity @p[tag=!self] slot.inventory 7 potato
+replaceitem entity @p[tag=!self] slot.inventory 8 potato
+replaceitem entity @p[tag=!self] slot.inventory 9 potato
+replaceitem entity @p[tag=!self] slot.inventory 10 potato
+replaceitem entity @p[tag=!self] slot.inventory 11 potato
+replaceitem entity @p[tag=!self] slot.inventory 12 potato
+replaceitem entity @p[tag=!self] slot.inventory 13 potato
+replaceitem entity @p[tag=!self] slot.inventory 14 potato
+replaceitem entity @p[tag=!self] slot.inventory 15 potato
+replaceitem entity @p[tag=!self] slot.inventory 16 potato
+replaceitem entity @p[tag=!self] slot.inventory 17 potato
+replaceitem entity @p[tag=!self] slot.inventory 18 potato
+replaceitem entity @p[tag=!self] slot.inventory 19 potato
+replaceitem entity @p[tag=!self] slot.inventory 20 potato
+replaceitem entity @p[tag=!self] slot.inventory 21 potato
+replaceitem entity @p[tag=!self] slot.inventory 22 potato
+replaceitem entity @p[tag=!self] slot.inventory 23 potato
+replaceitem entity @p[tag=!self] slot.inventory 24 potato
+replaceitem entity @p[tag=!self] slot.inventory 25 potato
+replaceitem entity @p[tag=!self] slot.inventory 26 potato
+replaceitem entity @p[tag=!self] slot.inventory 27 potato
+tag @s remove self
+playsound random.orb @s

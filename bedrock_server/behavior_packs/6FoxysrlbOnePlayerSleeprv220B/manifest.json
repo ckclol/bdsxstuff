@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack By §6FoxyNoTail§r | Only one player needs to sleep on a multiplayer world | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail",
+        "name": "§6Foxy's§r §l§bOne Player Sleep§r v2.2.0 [B]",
+        "uuid": "2ca9e44b-705d-4a79-9671-375f7b3e0abe",
+        "version": [2, 2, 0],
+		"min_engine_version": [1, 16, 100]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "e085dcb1-8871-4d11-95c8-c3e229843055",
+            "version": [2, 2, 0]
+        }
+    ]
+}

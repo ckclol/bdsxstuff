@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§fTons of new Useful §9Commands§f! §9/function help§f to get started. Made by §9§ld§b6§9b§r",
+        "name": "§l§9Admin §bFunction§9 Commands§r§7 [v1.1.0]",
+        "uuid": "8B27DB09-44A9-43BB-994F-4ABA45212B8A",
+        "min_engine_version": [ 1,10,0 ],
+        "version": [1, 1, 2]
+    },
+    "mi_engine_version": [ 1,10,0 ],"modules": [
+        {
+            "description": "resourcePack.vanilla_server.description",
+            "type": "data",
+            "uuid": "F3A2AFBC-A3DA-43A9-89AB-5630B474A2AF",
+            "version": [1, 1, 2]
+        }
+    ]
+}

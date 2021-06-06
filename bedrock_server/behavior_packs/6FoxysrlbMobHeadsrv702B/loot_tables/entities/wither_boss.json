@@ -1,0 +1,39 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:netherStar",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "loot_tables/fmh/boss/wither_chance.json",
+          "weight": 3
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/fmh/boss/armored_wither_chance.json",
+          "weight": 2
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/fmh/boss/invulnerable_wither_chance.json",
+          "weight": 3
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/fmh/boss/armored_invulnerable_wither_chance.json",
+          "weight": 2
+        }
+      ]
+    }
+  ]
+}

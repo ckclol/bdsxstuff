@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§fEven more Useful Commands to manage your World. Made by §9§ld§b6§9b§r",
+        "name": "§l§bEssentials +§r",
+        "uuid": "FCDBEEA5-9192-4454-BEA6-1B17DDF8334F",
+        "min_engine_version": [ 1,10,0 ],
+        "version": [1, 0, 1]
+    },
+    "mi_engine_version": [ 1,10,0 ],"modules": [
+        {
+            "description": "resourcePack.vanilla_server.description",
+            "type": "data",
+            "uuid": "8391AD6D-E21C-44E1-8253-FF2F4E751021",
+            "version": [1, 0, 1]
+        }
+    ]
+}

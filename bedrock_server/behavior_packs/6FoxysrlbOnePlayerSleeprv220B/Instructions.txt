@@ -1,0 +1,48 @@
+# Foxy's One Player Sleep pack
+# Created: 06/12/2020 [mm/dd/yyyy]
+# Version: 2.2
+# Made for MC Bedrock Edition 1.16.100
+# For more info visit http://foxynotail.com
+
+# WHAT'S NEW IN v2.2 # 
+----------------------
+Pack is updated to work consistently with MC 1.16.100
+
+
+# WHAT IS INCLUDED? #
+---------------------
+
+# One Player Sleep
+This pack lets all players activate one player sleeping which means that on worlds with more than one player online, only one player needs to sleep to pass the night.
+To activate, just sleep in a bed.
+This works on single player worlds, realms and servers.
+
+
+# Adding this pack to your world.
+----------------------------------
+Download the pack from http://foxynotail.com
+
+# Single Player Worlds and Realms
+Use the in game settings to add the behaviour pack to your world. 
+To get the pack into the game on windows 10, double click the .mcaddon file you downloaded. It should install into Minecraft on it's own.
+For other platforms, if trying to open the .mcaddon file doesn't work, copy the .mcaddon file into the behaviour_packs folder of your Minecraft bedrock installation.
+
+# BDS Servers
+Follow the instructions in the launch video here: https://youtu.be/Wu79wSllCkc
+
+2# Making the pack work
+-----------------------
+One player sleep will work for all players.
+
+# That's it!
+
+
+I hope you managed ok. Any issues, then please contact me via my discord. Details can be found on http://foxynotail.com
+
+
+FAQ:
+Q) It doesn't work
+A) Watch this video (https://youtu.be/Wu79wSllCkc) and make sure you did everything listed above correctly.
+
+Q) The pack fails to install
+A) Remove any other previous packs and clear the cache. Mojang have details on how to do this.

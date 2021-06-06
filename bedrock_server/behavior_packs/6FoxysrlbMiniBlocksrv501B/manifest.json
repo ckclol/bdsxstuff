@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack By §6FoxyNoTail§r | Tiny blocks for your world | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail",
+        "name": "§6Foxy's§r §l§bMini Blocks§r v5.0.1 [B]",
+        "uuid": "5671bbcd-7a4e-4720-9735-c6ac78e4901e",
+        "version": [5, 0, 1],
+		"min_engine_version": [1, 16, 201]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "f016dc63-f73f-4c54-a130-a357fefd3a43",
+            "version": [5, 0, 1]
+        }
+    ],
+	"dependencies": [
+	  {
+		"uuid": "405f3902-58f7-41f7-9b1f-5dd07eb8b87b",
+		"version": [5, 0, 1]
+	  }
+	]
+}
